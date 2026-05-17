@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 363797bf83d9cc34ba6455b1f1b10cce, type: 3}
+  m_Name: Aura Character
+  m_EditorClassIdentifier: 
+  icon: {fileID: 588357080, guid: 6a1a87141e1bf2542a5825716c993faa, type: 3}
+  animatorController: {fileID: 9100000, guid: d6266491738c7b94aa41c15f505f5db6, type: 2}
+  name: Red Knight
+  visualScale: 0.41
+  startingWeapon: {fileID: 11400000, guid: 7847676eae34d1e4b98f9f2b62aac733, type: 2}
+  characterDescription: "+50% \u043A \u0440\u0430\u0434\u0438\u0443\u0441\u0443 \u0443\u043C\u0435\u043D\u0438\u0439"
+  stats:
+    maxHealth: 125
+    recovery: 1.5
+    armor: 0
+    moveSpeed: 0.8
+    might: 1
+    area: 1.5
+    speed: 1
+    duration: 1
+    amount: 0
+    cooldown: 1
+    magnet: 2.5

@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e370ff6c0d531304c826f72733e58c8c, type: 3}
+  m_Name: Damage Data
+  m_EditorClassIdentifier: 
+  icon: {fileID: 223563220, guid: 59ebac8ffee3c1741b906c7f70b73505, type: 3}
+  maxLevel: 5
+  baseStats:
+    name: "\u0417\u0430\u0442\u043E\u0447\u043A\u0430"
+    description: "\u0443\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u0435\u0442
+      \u043D\u0430\u043D\u043E\u0441\u0438\u043C\u044B\u0439 \u0443\u0440\u043E\u043D
+      \u043D\u0430 10 %"
+    boosts:
+      maxHealth: 0
+      recovery: 0
+      armor: 0
+      moveSpeed: 0
+      might: 0.1
+      area: 0
+      speed: 0
+      duration: 0
+      amount: 0
+      cooldown: 0
+      magnet: 0
+  growth:
+  - name: "\u0423\u0440\u043E\u0432\u0435\u043D\u044C 2"
+    description: "\u0443\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u0435\u0442
+      \u043D\u0430\u043D\u043E\u0441\u0438\u043C\u044B\u0439 \u0443\u0440\u043E\u043D
+      \u043D\u0430 10 %"
+    boosts:
+      maxHealth: 0
+      recovery: 0
+      armor: 0
+      moveSpeed: 0
+      might: 0.1
+      area: 0
+      speed: 0
+      duration: 0
+      amount: 0
+      cooldown: 0
+      magnet: 0
+  - name: "\u0423\u0440\u043E\u0432\u0435\u043D\u044C 3"
+    description: "\u0443\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u0435\u0442
+      \u043D\u0430\u043D\u043E\u0441\u0438\u043C\u044B\u0439 \u0443\u0440\u043E\u043D
+      \u043D\u0430 10 %"
+    boosts:
+      maxHealth: 0
+      recovery: 0
+      armor: 0
+      moveSpeed: 0
+      might: 0.1
+      area: 0
+      speed: 0
+      duration: 0
+      amount: 0
+      cooldown: 0
+      magnet: 0
+  - name: "\u0423\u0440\u043E\u0432\u0435\u043D\u044C 4"
+    description: "\u0443\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u0435\u0442
+      \u043D\u0430\u043D\u043E\u0441\u0438\u043C\u044B\u0439 \u0443\u0440\u043E\u043D
+      \u043D\u0430 10 %"
+    boosts:
+      maxHealth: 0
+      recovery: 0
+      armor: 0
+      moveSpeed: 0
+      might: 0.1
+      area: 0
+      speed: 0
+      duration: 0
+      amount: 0
+      cooldown: 0
+      magnet: 0
+  - name: "\u0423\u0440\u043E\u0432\u0435\u043D\u044C 5"
+    description: "\u0443\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u0435\u0442
+      \u043D\u0430\u043D\u043E\u0441\u0438\u043C\u044B\u0439 \u0443\u0440\u043E\u043D
+      \u043D\u0430 10 %"
+    boosts:
+      maxHealth: 0
+      recovery: 0
+      armor: 0
+      moveSpeed: 0
+      might: 0.1
+      area: 0
+      speed: 0
+      duration: 0
+      amount: 0
+      cooldown: 0
+      magnet: 0

@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: a42d5b2233305e14f8399f6e356c6b7b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixelquest16-july-2025-cave_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 15.5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf06b2877370b0a41932410042e1d28d
+      internalID: 354548993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelquest16-july-2025-cave_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 15.5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b10b9544d76f744a5b148a40a5d2fd
+      internalID: 625879549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelquest16-july-2025-cave_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 15.5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d19d99f9597d254ca4ff4dca407a35d
+      internalID: -733252424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelquest16-july-2025-cave_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 15.5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032610e5c086bc84a9b374b2bb8a9f5e
+      internalID: -1512616347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelquest16-july-2025-cave_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 15.5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c191439859fcb499b36c1f4e23d694
+      internalID: 583755386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelquest16-july-2025-cave_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 15.5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f838bf24e886184b8544736d08bc6f6
+      internalID: -2083146783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelquest16-july-2025-cave_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 15.5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cde355f09d78aa42a91952734a9cb10
+      internalID: -48274346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelquest16-july-2025-cave_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 15.5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f76b5825703534eb3f3ffd53cea16a
+      internalID: 1565612553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelquest16-july-2025-cave_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 15.5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb8781d5591ab54dbe6d97804eed723
+      internalID: -64207053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelquest16-july-2025-cave_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 15.5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdbf6d072d1be744b6aaf9fcdb54980
+      internalID: -210544725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelquest16-july-2025-cave_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 15.5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0722232089be14f43be1dfd2a8bcf2c0
+      internalID: -1779736971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelquest16-july-2025-cave_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 15.5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fa0c2ed45e0fd40821207d42e41b1c
+      internalID: 672897378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelquest16-july-2025-cave_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 15.5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e812afca673af440a6ec036e539e218
+      internalID: -939165599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelquest16-july-2025-cave_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 15.5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dafbd24ae766147a60c88a29384c58
+      internalID: 1279032919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelquest16-july-2025-cave_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 15.5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c5527349a2eef459a968d108b5a9a5
+      internalID: -1967161208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelquest16-july-2025-cave_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 15.5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b416e5d4469a84986a8e68f8cb972d
+      internalID: -193140417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelquest16-july-2025-cave_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 15.5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c881244f834edd14fb754f608d567e14
+      internalID: 309722423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelquest16-july-2025-cave_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 15.5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431ad44285cf8484b968ef2729632d38
+      internalID: -1403739783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelquest16-july-2025-cave_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 15.5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dbab40b295e08439a07b09320e8362
+      internalID: 302234735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelquest16-july-2025-cave_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 15.5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3936bbd3963de5f42949ab0a8475607b
+      internalID: -763392820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelquest16-july-2025-cave_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 15.5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c91f368267ab934aa3997c03ad44e68
+      internalID: 966972398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelquest16-july-2025-cave_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 15.5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5aa1f6e49522542aba35620f84de2f
+      internalID: 1407442167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pixelquest16-july-2025-cave_0: 354548993
+      pixelquest16-july-2025-cave_1: 625879549
+      pixelquest16-july-2025-cave_10: -1779736971
+      pixelquest16-july-2025-cave_11: 672897378
+      pixelquest16-july-2025-cave_12: -939165599
+      pixelquest16-july-2025-cave_13: 1279032919
+      pixelquest16-july-2025-cave_14: -1967161208
+      pixelquest16-july-2025-cave_15: -193140417
+      pixelquest16-july-2025-cave_16: 309722423
+      pixelquest16-july-2025-cave_17: -1403739783
+      pixelquest16-july-2025-cave_18: 302234735
+      pixelquest16-july-2025-cave_19: -763392820
+      pixelquest16-july-2025-cave_2: -733252424
+      pixelquest16-july-2025-cave_20: 966972398
+      pixelquest16-july-2025-cave_21: 1407442167
+      pixelquest16-july-2025-cave_3: -1512616347
+      pixelquest16-july-2025-cave_4: 583755386
+      pixelquest16-july-2025-cave_5: -2083146783
+      pixelquest16-july-2025-cave_6: -48274346
+      pixelquest16-july-2025-cave_7: 1565612553
+      pixelquest16-july-2025-cave_8: -64207053
+      pixelquest16-july-2025-cave_9: -210544725
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

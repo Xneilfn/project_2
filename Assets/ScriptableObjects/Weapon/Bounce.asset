@@ -1,0 +1,207 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a5e20ad49f31b74db567dbb2dd11b51, type: 3}
+  m_Name: Bounce
+  m_EditorClassIdentifier: 
+  icon: {fileID: -64207053, guid: a42d5b2233305e14f8399f6e356c6b7b, type: 3}
+  maxLevel: 8
+  behaviour: BounceWeapon
+  baseStats:
+    name: Bounce
+    description: "\u041F\u0440\u043E\u0445\u043E\u0434\u0438\u0442 \u0441\u043A\u0432\u043E\u0437\u044C
+      \u0432\u0440\u0430\u0433\u043E\u0432, \u043E\u0442\u0441\u043A\u0430\u043A\u0438\u0432\u0430\u0435\u0442
+      \u043E\u0442 \u043A\u0440\u0430\u0435\u0432"
+    projectilePrefab: {fileID: 8939853377148297018, guid: 64b3550f506e36b45b003272600572c7, type: 3}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 0}
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 2.5
+    damage: 10
+    damageVariance: 2
+    area: 0
+    speed: 4
+    cooldown: 3
+    projectileInterval: 0.2
+    knockback: 0
+    number: 1
+    piercing: 999
+    maxInstances: 25
+  linearGrowth:
+  - name: Level 2
+    description: "+20% \u043A \u0431\u0430\u0437\u043E\u0432\u043E\u0439 \u0441\u043A\u043E\u0440\u043E\u0441\u0442\u0438.
+      5 \u043A \u0431\u0430\u0437\u043E\u0432\u043E\u043C\u0443 \u0443\u0440\u043E\u043D\u0443."
+    projectilePrefab: {fileID: 0}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 0}
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0
+    damage: 5
+    damageVariance: 0
+    area: 0
+    speed: 0.8
+    cooldown: 0
+    projectileInterval: 0
+    knockback: 0
+    number: 0
+    piercing: 0
+    maxInstances: 0
+  - name: Level 3
+    description: "\u041F\u0440\u043E\u0434\u043B\u0435\u0432\u0430\u0435\u0442 \u044D\u0444\u0444\u0435\u043A\u0442
+      \u043D\u0430 0.25 \u0441\u0435\u043A. 5 \u043A \u0431\u0430\u0437\u043E\u0432\u043E\u043C\u0443
+      \u0443\u0440\u043E\u043D\u0443."
+    projectilePrefab: {fileID: 0}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 0}
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0.25
+    damage: 5
+    damageVariance: 0
+    area: 0
+    speed: 0
+    cooldown: 0
+    projectileInterval: 0
+    knockback: 0
+    number: 0
+    piercing: 0
+    maxInstances: 0
+  - name: Level 4
+    description: "\u0412\u044B\u043F\u0443\u0441\u043A\u0430\u0435\u0442 \u0434\u043E\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0435
+      \u0441\u043D\u0430\u0440\u044F\u0434\u044B: 1."
+    projectilePrefab: {fileID: 0}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 0}
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0
+    damage: 0
+    damageVariance: 0
+    area: 0
+    speed: 0
+    cooldown: 0
+    projectileInterval: 0
+    knockback: 0
+    number: 1
+    piercing: 0
+    maxInstances: 0
+  - name: Level 5
+    description: "+20% \u043A \u0431\u0430\u0437\u043E\u0432\u043E\u0439 \u0441\u043A\u043E\u0440\u043E\u0441\u0442\u0438.
+      5 \u043A \u0431\u0430\u0437\u043E\u0432\u043E\u043C\u0443 \u0443\u0440\u043E\u043D\u0443."
+    projectilePrefab: {fileID: 0}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 0}
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0
+    damage: 0
+    damageVariance: 0
+    area: 0
+    speed: 0.8
+    cooldown: 0
+    projectileInterval: 0
+    knockback: 0
+    number: 0
+    piercing: 0
+    maxInstances: 0
+  - name: Level 6
+    description: "\u041F\u0440\u043E\u0434\u043B\u0435\u0432\u0430\u0435\u0442 \u044D\u0444\u0444\u0435\u043A\u0442
+      \u043D\u0430 0.25 \u0441\u0435\u043A. 5 \u043A \u0431\u0430\u0437\u043E\u0432\u043E\u043C\u0443
+      \u0443\u0440\u043E\u043D\u0443."
+    projectilePrefab: {fileID: 0}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 0}
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0.25
+    damage: 5
+    damageVariance: 0
+    area: 0
+    speed: 0
+    cooldown: 0
+    projectileInterval: 0
+    knockback: 0
+    number: 0
+    piercing: 0
+    maxInstances: 0
+  - name: Level 7
+    description: "\u0412\u044B\u043F\u0443\u0441\u043A\u0430\u0435\u0442 \u0434\u043E\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0435
+      \u0441\u043D\u0430\u0440\u044F\u0434\u044B: 1."
+    projectilePrefab: {fileID: 0}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 0}
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0
+    damage: 0
+    damageVariance: 0
+    area: 0
+    speed: 0
+    cooldown: 0
+    projectileInterval: 0
+    knockback: 0
+    number: 1
+    piercing: 0
+    maxInstances: 0
+  - name: Level 8
+    description: "\u041F\u0440\u043E\u0434\u043B\u0435\u0432\u0430\u0435\u0442 \u044D\u0444\u0444\u0435\u043A\u0442
+      \u043D\u0430 0.5 \u0441\u0435\u043A."
+    projectilePrefab: {fileID: 0}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 0}
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0.5
+    damage: 0
+    damageVariance: 0
+    area: 0
+    speed: 0
+    cooldown: 0
+    projectileInterval: 0
+    knockback: 0
+    number: 0
+    piercing: 0
+    maxInstances: 0
+  randomGrowth: []

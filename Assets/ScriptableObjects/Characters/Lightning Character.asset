@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 363797bf83d9cc34ba6455b1f1b10cce, type: 3}
+  m_Name: Lightning Character
+  m_EditorClassIdentifier: 
+  icon: {fileID: -1098022329, guid: 5b81e38834de358488cd10080c6c7456, type: 3}
+  animatorController: {fileID: 9100000, guid: 4df585ddc13f99b48a5e899a8e755c5c, type: 2}
+  name: Mage
+  visualScale: 0.41
+  startingWeapon: {fileID: 11400000, guid: a402e16865ba67045b9cee85ab5a8312, type: 2}
+  characterDescription: "+1 \u043A \u0447\u0438\u0441\u043B\u0443 \u0441\u043D\u0430\u0440\u044F\u0434\u043E\u0432"
+  stats:
+    maxHealth: 100
+    recovery: 1.5
+    armor: 0
+    moveSpeed: 1
+    might: 1
+    area: 1
+    speed: 1
+    duration: 1
+    amount: 1
+    cooldown: 1
+    magnet: 1.6
