@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   icon: {fileID: 588357080, guid: 6a1a87141e1bf2542a5825716c993faa, type: 3}
   animatorController: {fileID: 9100000, guid: d6266491738c7b94aa41c15f505f5db6, type: 2}
-  name: Red Knight
+  name: Auralis
   visualScale: 0.41
   startingWeapon: {fileID: 11400000, guid: 7847676eae34d1e4b98f9f2b62aac733, type: 2}
   characterDescription: "+50% \u043A \u0440\u0430\u0434\u0438\u0443\u0441\u0443 \u0443\u043C\u0435\u043D\u0438\u0439"
