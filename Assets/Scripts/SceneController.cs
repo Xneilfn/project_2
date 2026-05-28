@@ -37,7 +37,7 @@ public class SceneController : MonoBehaviour
         SceneChangeWithSound("Menu", "Menu");
     }
 
-    // Для кнопки "Начать игру"
+
     public void LoadGameWithMusic()
     {
         SceneChangeWithSound("Game", "Game");
